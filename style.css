@@ -1,0 +1,19 @@
+body {
+    background-color: black;
+}
+
+.Top_Logo {
+    position: static;
+    margin-top: 25vh;
+    text-align: center;
+}
+
+.coming-soon-text {
+    color: white;
+    text-align: center;
+    margin-top: 5vh;
+    font-family: "Bebas Neue", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    font-size: 200%;
+}
